@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Dirk van Wijk, a MSc. student in Mechanical Engineering, specializing in control systems and systems engineering. Next to that, I have an interest in (embedded) software development, and am an alumnus of Solar Team Eindhoven.
+
 <!--
 **DirkWillem/DirkWillem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
